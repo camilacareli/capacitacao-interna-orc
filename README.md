@@ -1,5 +1,11 @@
 # Capacitação Interna da Orc'estra
 
+### Tecnologias utilizadas:
+- React Native
+- Node JS
+- Mongo DB
+- Expo Go
+
 ### Semana 1
 | Segunda | Terça | Quarta | Quinta | Sexta |
 |----------|----------|----------|----------|----------|
